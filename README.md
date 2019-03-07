@@ -1,7 +1,3 @@
-# web-week-2-cs-problem
-
-For the next 30 minutes take turns with the person sitting next to you whiteboarding out solutions to the two following problems. Try to only use Ruby documentation as an outside resource.
-
 ## Problem1
 
 "Given an array of numbers, write the method `move_zeroes()` method to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
